@@ -1,0 +1,4 @@
+node_modules/
+
+# 打包后的dist
+docs/.vitepress/dist/

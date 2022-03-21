@@ -1,0 +1,12 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "个人博客 vue vitepress",
+  "main": "index.js",
+  "repository": "git@github.com:rainy-cc/rainy-cc.github.io.git",
+  "author": "rainycc <1615250697@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^0.22.3"
+  }
+}
